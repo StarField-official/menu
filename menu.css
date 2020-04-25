@@ -5,6 +5,8 @@ body header {
 body .main {
   height: auto;
   background-image: url("36223.png");
+  background-size: cover;
+  background-attachment: fixed;
   padding-top: 131px;
   padding-bottom: 70px
 }
