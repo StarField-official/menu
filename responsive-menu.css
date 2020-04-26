@@ -1,2 +1,13 @@
 @media (max-width: 1024px){body header{height:150px}body header img{width:26%}body header ul{display:none}body header i{display:block !important}body .main{padding-top:220px}body .main .row .news-box{display:block;width:70%;height:470px;background-color:#fff;margin:0 auto 0 auto;border:2px solid #881C36}body .main .row .news-box h2{font-size:40px;color:#881C36;text-align:center;margin-top:16px}body .main .row .news-box p{font-size:30px;color:#881C36;text-align:center}body .main .row .news-card-res{display:block;margin:0 auto 0 auto}body .main .row .news-card{display:none}body.main .row p{text-align:center;font-size:28px} body footer img{display:block;margin:40px auto 0 auto}body footer .ft-fir{text-align:center}body footer .ft-fir h2{margin-top:50px;font-size:40px}body footer .ft-fir p{font-size:30px}body footer .ft-sec{font-size:24px}}
 /*# sourceMappingURL=responsive-history.css.map */
+body .main .row .ttl {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    height: 60px;
+    line-height: 60px
+  }
+
+  body .main .row .ttl span {
+    font-size: 28px
+  }
