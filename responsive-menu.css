@@ -88,6 +88,29 @@
   body footer .ft-sec {
     font-size: 24px
   }
+  body{
+	footer{
+		.footer-btns{
+			width:260px;
+			.facebook-btn{
+				width:80px;
+				height:80px;
+				i{
+				font-size: 35px;
+				line-height: 80px;
+				}
+			}
+			.instagram-btn{
+				height:80px;
+				width:80px;
+				i{
+				font-size: 35px;
+				line-height: 80px;
+				}
+			}
+		}
+	}
+}
 }
 
 /*# sourceMappingURL=responsive-history.css.map */
