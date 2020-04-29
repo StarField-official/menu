@@ -111,7 +111,7 @@
 		}
 	}
 }
-	body footer .footer-btns .facebook-btn i{font-size:35px;line-height:80px}body footer .footer-btns .instagram-btn i{font-size:35px;line-height:80px}body footer .footer-btns .facebook-btn{width:80px;height:80px}body footer .footer-btns .instagram-btn{height:80px;width:80px}
+	body footer .footer-btns{width:260px}body footer .footer-btns .facebook-btn i{font-size:35px;line-height:80px}body footer .footer-btns .instagram-btn i{font-size:35px;line-height:80px}body footer .footer-btns .facebook-btn{width:80px;height:80px}body footer .footer-btns .instagram-btn{height:80px;width:80px}
 }
 
 /*# sourceMappingURL=responsive-history.css.map */
