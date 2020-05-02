@@ -41,8 +41,13 @@ body .main .row p {
   font-size: 22px
 } 
 
+.message {
+  font-size: 20px;
+}
+
 .outline {
-  margin: 30px 0;
+  margin: 60px 0 30px 40px;
+  font-size: 28px;
 }
 
 .menu-block img {
