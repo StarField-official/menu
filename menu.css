@@ -47,6 +47,15 @@ body .main .row p {
   object-fit: cover;
 }
 
+.item p {
+  margin-bottom: 40px;
+}
+
+.minus {
+  margin-top: -180px;
+}
+
+
 .message {
   font-size: 20px;
 }
