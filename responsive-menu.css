@@ -67,6 +67,10 @@
     font-size: 28px
   }
 
+  .minus {
+    margin-top: 50px;
+  }
+
   body footer img {
     display: block;
     margin: 40px auto 0 auto
