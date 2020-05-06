@@ -41,12 +41,6 @@ body .main .row p {
   font-size: 22px
 } 
 
-.main img {
-  width: 280px;
-  height: 280px;
-  object-fit: cover;
-}
-
 .item p {
   margin-bottom: 40px;
 }
